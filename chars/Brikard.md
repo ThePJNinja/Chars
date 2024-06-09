@@ -8,7 +8,6 @@
 - **Age:** 5 years since waking from cryo, ~10k years in cryo.
 - **Height:** 2m (Matching Big)
 - **VA:** English VA of Megumi Fushiguro from JJK
-- (Provide at least one image.)
 
 ``` ```
 
@@ -18,10 +17,8 @@
 
 ### PERSONALITY
 
-- Appears stoic but is extremely emotional inside.
-- Defo on the autism spectrum.
-- Calm and Kind.
-- Thinks very deeply.
+He's stoic, but extraordinarily emotional. In combat, he makes a good leader because he keeps a level head and can think
+fast. He can oftentimes put people off by his strange quietness and outwardly invisible interest.
 
 ``` ```
 
@@ -30,10 +27,10 @@
 #### Powers/Abilities:
 
 - Tungsten Aura: He can form tungsten tools and weapons out of his aura.
-- Soil Transmute: He can control 20m^3 of soil or stone at a time, telekinetically. This only works as long as he
+- Soil Transmute: He can control 20m^3 of soil or stone at a time, telekinetic. This only works as long as he
   touches part of it.
 	- He can use this to tunnel underground.
-- Breathe life: He can cause plantlife to grow 10000x faster and 10x taller, whist controlling how it grows and in which
+- Breathe life: He can cause plant life to grow 10000x faster and 10x taller, whist controlling how it grows and in which
   direction.
 - Multiple forms: Ember has two stronger forms they can swap to:
 	- Honored (Up to 3 Hours):
@@ -53,18 +50,13 @@
 
 #### Strengths:
 
-- Extremely calculated defense and hard to predict offense
+- Extremely calculated defense and hard to predict offense.
 - Pretty scary looking to those who don't know he's a big teddy bear.
 
 #### Weaknesses:
 
-- Putting lives on the line breaks Ember's scales of right/wrong.
-- Their power comes directly from their own will, so mindgames are particularly effective at weakening them.
-- Their transmutation technique can't be applied in quantities greater than their maximun aura released, so they aren't
-  effective underwater or when someone keeps them wet constantly. Liquid water is more dense than steam, so it's more
-  effective against them.
-	- This is NOT true in holy form. All their fire techniques use nuclear fusion rather than chemical combustion in
-	  that form, and therefore it's unaffected by water.
+- They run through their abilities quite quickly. You'll see all they have in a matter of moments.
+- His low accuracy and low stamina makes it so an agile foe able to dodge until he's exhausted.
 
 ``` ```
 
@@ -76,9 +68,9 @@
 
 - #### Base
 	- **Strength:** A
-	- **Speed:** B
+	- **Speed:** C
 	- **Intelligence:** A
-	- **Durability:** A
+	- **Durability:** C
 	- **Precision:** C
 	- **Reaction-Time:** B
 	- **Magical ability:** A
@@ -87,8 +79,8 @@
 	- **Strength:** Z-
 	- **Speed:** B+
 	- **Intelligence:** A
-	- **Durability:** Z-
-	- **Precision:** A-
+	- **Durability:** B+
+	- **Precision:** B+
 	- **Reaction-Time:** A-
 	- **Magical ability:** A+
 	- **Total Lethality:** A
@@ -96,7 +88,7 @@
 	- **Strength:** Z
 	- **Speed:** A
 	- **Intelligence:** A
-	- **Durability:** Z
+	- **Durability:** A-
 	- **Precision:** A
 	- **Reaction-Time:** A
 	- **Magical ability:** Z-
@@ -108,6 +100,6 @@
 
 Brikard comes from the same world as Ember and has the same amnesia.
 
-His techniques involve his tungsten aura, which complements his immense strength
+His techniques involve his tungsten aura, which complements his immense strength.
 
 He's sticking with Big right now and seeing where things go. Fishing is new to him, and he's still learning!

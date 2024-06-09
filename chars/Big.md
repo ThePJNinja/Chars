@@ -8,7 +8,6 @@
 - **Age:** 35 (I know hes "18" BUT COME ON MAN)
 - **Height:** 2m
 - **VA:** Y'all know this man.
-- (Provide at least one image.)
 
 ``` ```
 
@@ -79,8 +78,8 @@
 Living in the wild during his childhood, Big discovered his first, "Urban area," during the events of Sonic Adventure.
 Since then, he's found that the supply chain that leads to the city folk's fish is very efficient.
 
-He now owns a fishing boat, and he operates outside of city square. He only manages to sell half the fish he catches,
+He now owns a fishing boat, and he operates outside city square. He only manages to sell half the fish he catches,
 because other half are eaten mostly by him, and a couple are eaten by froggy.
 
-One day, an unconsious mobian wolf fell into his boat from the sky. His name was Brickard, but big calls him, "Wolfy." "
+One day, an unconscious mobian wolf fell into his boat from the sky. His name was Brikard, but big calls him, "Wolfy." "
 Wolfy" goes fishing with big, as he has nothing better to do, seeing as he's stranded in an unknown world.

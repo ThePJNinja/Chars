@@ -8,7 +8,6 @@
 - **Age:** 21
 - **Height:** 1.8m
 - **VA:** English VA of Yuji Itadori from JJK
-- (Provide at least one image.)
 
 ``` ```
 
@@ -18,10 +17,7 @@
 
 ### PERSONALITY
 
-- Naive but not weak-willed.
-- Cares about the safety of complete strangers over their own.
-- Suffers from the whole "Goku complex" of constantly wanting to fight stronger people.
-- Defo has ADHD
+They're a little naive, but not at all weak-willed. Ember oftentimes shows a greater care about the safety of complete strangers over their own. They suffer from the whole "Goku complex" of constantly wanting to fight stronger people. (It's not a universal saiyan thing, they wouldn't have gone nearly extinct if it was, super sayians would be plentiful.) Their smiles are infectious.
 
 ``` ```
 
@@ -83,7 +79,7 @@
 - #### Base
     - **Strength:** B
     - **Speed:** A
-    - **Intelligence:** C
+    - **Intelligence:** D
     - **Durability:** B
     - **Precision:** B
     - **Reaction-Time:** A
@@ -91,9 +87,9 @@
     - **Total Lethality:** B
 - #### Honored
     - **Strength:** B+
-    - **Speed:** Z-
-    - **Intelligence:** C
-    - **Durability:** Z-
+    - **Speed:** A+
+    - **Intelligence:** D
+    - **Durability:** B+
     - **Precision:** Z
     - **Reaction-Time:** Z-
     - **Magical ability:** A+
@@ -101,8 +97,8 @@
 - #### Holy
     - **Strength:** A
     - **Speed:** Z
-    - **Intelligence:** C
-    - **Durability:** Z
+    - **Intelligence:** D
+    - **Durability:** A
     - **Precision:** A- (Actually goes down)
     - **Reaction-Time:** Z
     - **Magical ability:** Z

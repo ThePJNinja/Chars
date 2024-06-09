@@ -17,11 +17,7 @@
 
 ### PERSONALITY
 
-- Reserved.
-- Calm is a facade for her firey true self.
-- Demands respect, but not the title, "Your Highness."
-- Dislikes Heights & Water.
-- Well-mannered in casual conversation.
+She's got the manners of royalty, but Sonic's attitude. Her calm demeanor is a facade on her firey true feelings. She REALLY dislikes Heights & Water. Oh, and don't say, "Your Highness."
 
 ``` ```
 
@@ -91,7 +87,7 @@ Parallel to Sonic's Chaos dimension, is the Sol dimension. Blaze is the sol dime
 has Nega, a parallel to Eggman.
 
 Now there's a visitor in town. Ember showed up at the palace unannounced one day and challenged Blaze to a duel. Not to
-take her throne, but just because they heard she was the strongest here. After initial unpleasentness, Blaze realized
+take her throne, but just because they heard she was the strongest here. After initial unpleasantness, Blaze realized
 how similar Ember was to Sonic, and they became fast friends. Blaze won the duel, by the way.
 
 Cream told Her about Big's new friend once, and when the description matched one of Ember's colleagues, they were off to
