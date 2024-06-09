@@ -78,7 +78,7 @@ They're a little naive, but not at all weak-willed. Ember oftentimes shows a gre
 
 - #### Base
     - **Strength:** B
-    - **Speed:** A
+    - **Speed:** B
     - **Intelligence:** D
     - **Durability:** B
     - **Precision:** B
@@ -87,7 +87,7 @@ They're a little naive, but not at all weak-willed. Ember oftentimes shows a gre
     - **Total Lethality:** B
 - #### Honored
     - **Strength:** B+
-    - **Speed:** A+
+    - **Speed:** A-
     - **Intelligence:** D
     - **Durability:** B+
     - **Precision:** Z
@@ -96,7 +96,7 @@ They're a little naive, but not at all weak-willed. Ember oftentimes shows a gre
     - **Total Lethality:** A
 - #### Holy
     - **Strength:** A
-    - **Speed:** Z
+    - **Speed:** A
     - **Intelligence:** D
     - **Durability:** A
     - **Precision:** A- (Actually goes down)
